@@ -1,7 +1,7 @@
 use_frameworks!
 
 target 'BNCurvedPageControl_Example' do
-  pod 'BNCurvedPageControl', :path => '../'
+  pod 'BNCurvedPageControl', :path => 'https://github.com/BijeshNair/BNCurvedPageControl.git'
 
   target 'BNCurvedPageControl_Tests' do
     inherit! :search_paths
