@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'BNCurvedPageControl_Example' do
+  pod 'BNCurvedPageControl', :path => '../'
+
+  target 'BNCurvedPageControl_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

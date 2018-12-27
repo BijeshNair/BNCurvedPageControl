@@ -1,0 +1,16 @@
+PODS:
+  - BNCurvedPageControl (0.1.0)
+
+DEPENDENCIES:
+  - BNCurvedPageControl (from `../`)
+
+EXTERNAL SOURCES:
+  BNCurvedPageControl:
+    :path: ../
+
+SPEC CHECKSUMS:
+  BNCurvedPageControl: 21a49b602e35689d16f85d0ec3a815c70d62229f
+
+PODFILE CHECKSUM: fb5f0d0ab6681c81a4dabad8fc72ee909f7e53a2
+
+COCOAPODS: 1.4.0
