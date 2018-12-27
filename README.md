@@ -22,7 +22,7 @@ pod 'BNCurvedPageControl'
 
 ## Author
 
-musthop, bijesh.parameswaranmattathilnair@scientificgames.com
+Bijesh Nair
 
 ## License
 
