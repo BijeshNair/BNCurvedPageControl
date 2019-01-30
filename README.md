@@ -4,6 +4,10 @@
 [![License](https://img.shields.io/cocoapods/l/BNCurvedPageControl.svg?style=flat)](https://cocoapods.org/pods/BNCurvedPageControl)
 [![Platform](https://img.shields.io/cocoapods/p/BNCurvedPageControl.svg?style=flat)](https://cocoapods.org/pods/BNCurvedPageControl)
 
+
+![Alt text](https://media.giphy.com/media/kv4yfKgIYKiLrkycza/giphy.gif?raw=true)
+
+
 ## Example
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
